@@ -5,8 +5,6 @@ Store interface app built from `fakestoreapi.com`.
 - React
 - Typescript
 - Tailwind
-
-### Libraries used
 - Axios
 
 ### Key concepts
